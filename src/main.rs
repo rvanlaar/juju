@@ -4,6 +4,7 @@
 
 
 // add documentation for main
+// even more documentation
 fn main() {
     print("Hello, world!");
 }
